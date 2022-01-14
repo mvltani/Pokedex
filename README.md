@@ -1,4 +1,4 @@
-# react-parcel-starter
+# react-parcel-starter Change this, check this readme.so
 
 ### Starting the project on localhost
 
